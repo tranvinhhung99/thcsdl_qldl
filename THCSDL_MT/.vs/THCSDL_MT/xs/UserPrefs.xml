@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B664242D-DDF7-41F6-83EC-F219DA6F2B3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="THCSDL_MT/Program.cs">
+    <Files>
+      <File FileName="THCSDL_MT/Program.cs" Line="11" Column="32" />
+      <File FileName="THCSDL_MT/MainWindow.cs" Line="2" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="THCSDL_MT" expanded="True">
+            <Node name="THCSDL_MT" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.THCSDL__MT FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
